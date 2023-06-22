@@ -1,0 +1,32 @@
+body{
+    background-position: center;
+    background-size: cover;   
+}
+
+.link{
+    background: rgb(243, 174, 222);
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+
+}
+
+.link:hover{
+    font-size: large;
+}
+
+.header{
+    color: white;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(247, 235, 102);
+    color: gray;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    line-height: 3;
+}
